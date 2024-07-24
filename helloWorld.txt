@@ -1,1 +1,2 @@
 git add . -> This will add all files that have been moded to the staging area instead of having to type each name.
+Let us see!
